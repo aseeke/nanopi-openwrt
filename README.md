@@ -43,10 +43,12 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 
 欢迎使用、修改和传播这个脚本！如果你觉得它对你有帮助，记得来点个 Star ⭐ 哦～  
 
-> 💡 **免责声明：** 本脚本由作者热爱 Linux 的灵魂驱动编写，虽尽力确保安全，但任何使用问题请自负风险！
 ### 🌟 特别鸣谢  
-感谢 (https://github.com/coolsnowwolf/lede
-) 、https://github.com/immortalwrt/immortalwrt、https://github.com/coolsnowwolf/lede项目提供的技术支持与灵感参考。  
+感谢
+(https://github.com/coolsnowwolf/lede) 
+https://github.com/immortalwrt/immortalwrt
+https://github.com/coolsnowwolf/lede
+项目提供的技术支持与灵感参考。  
 ## 💡 赞助声明
 
 本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
