@@ -46,10 +46,15 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 ### 🌟 特别鸣谢  
 
 https://github.com/coolsnowwolf/lede
+
 https://github.com/immortalwrt/immortalwrt
+
 https://github.com/coolsnowwolf/lede
 
+
+
 项目提供的技术支持与灵感参考。  
+
 ## 💡 赞助声明
 
 本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
