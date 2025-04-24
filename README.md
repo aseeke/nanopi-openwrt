@@ -1,13 +1,5 @@
 # Nanopi R1S R2S R2C R4S X86 Openwrt 固件
 
-[刷机工具](https://www.balena.io/etcher/)  
-[下载地址](#下载地址)  
-[更新说明](#更新说明)  
-[使用提示](#使用提示)  
-[固件特性](#固件特性)  
-[在线升级](#终端内在线升级方法)  
-[1分钟生成自己所需固件](#1分钟生成自己所需固件)  
-
 ### 下载地址：
 (img.gz档不需要解压，可以直接使用刷机工具刷入)
 
@@ -18,11 +10,11 @@
 
 ### 终端内在线升级方法：
 ```bash
-wget -qO- https://github.com/stupidloud/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
+wget -qO- https://github.com/aseeke/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
 ```
 slim版
 ```bash
-wget -qO- https://github.com/stupidloud/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | ver=-slim bash
+wget -qO- https://github.com/aseeke/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | ver=-slim bash
 ```
 x86安装盘不是sda的情况下使用
 ```bash
@@ -47,7 +39,15 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 #### 本固件NAT基准性能测试：
 <img src="https://raw.githubusercontent.com/stupidloud/nanopi-openwrt/master/assets/NAT.jpg" width="450" />
 
-#### 固件源码：
-https://github.com/coolsnowwolf/lede
+### ❤️ 开源协议  
 
-https://github.com/immortalwrt/immortalwrt
+欢迎使用、修改和传播这个脚本！如果你觉得它对你有帮助，记得来点个 Star ⭐ 哦～  
+
+> 💡 **免责声明：** 本脚本由作者热爱 Linux 的灵魂驱动编写，虽尽力确保安全，但任何使用问题请自负风险！
+### 🌟 特别鸣谢  
+感谢 (https://github.com/coolsnowwolf/lede
+) 、https://github.com/immortalwrt/immortalwrt、https://github.com/coolsnowwolf/lede项目提供的技术支持与灵感参考。  
+## 💡 赞助声明
+
+本项目由 [VTEXS](https://console.vtexs.com/?affid=1513) 的「开源项目免费 VPS 计划」提供算力支持。  
+感谢 VTEXS 对开源社区的支持！
