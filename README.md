@@ -44,10 +44,11 @@ wget -qO- https://github.com/klever1988/nanopi-openwrt/raw/master/scripts/autoup
 欢迎使用、修改和传播这个脚本！如果你觉得它对你有帮助，记得来点个 Star ⭐ 哦～  
 
 ### 🌟 特别鸣谢  
-感谢
-(https://github.com/coolsnowwolf/lede) 
+
+https://github.com/coolsnowwolf/lede
 https://github.com/immortalwrt/immortalwrt
 https://github.com/coolsnowwolf/lede
+
 项目提供的技术支持与灵感参考。  
 ## 💡 赞助声明
 
